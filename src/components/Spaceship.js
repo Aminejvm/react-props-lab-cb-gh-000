@@ -20,4 +20,3 @@ class Spaceship {
 }
 
 export default Spaceship;
-
